@@ -1,0 +1,8 @@
+youtube.com
+ytimg.com
+play.google.com
+fonts.googleapis.com
+gstatic.com
+ggpht.com
+googleapis.com
+googlevideo.com
